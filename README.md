@@ -1,9 +1,19 @@
-# bootcamp9
+# Hi, I'm Pragna Challa 👋
 
-# creating auto suggest application
+🎓 **2nd Year Computer Science Student** passionate about software development and problem-solving.
 
-# this is collage 
+---
 
-# auto-suggest
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++, Java, JavaScript
+- **Web Development:** HTML5, CSS3, JavaScript
+- **Tools & Platforms:** Git, GitHub, VS Code
 
-rdtfyuuiklkmseyu
+---
+
+### 🚀 Projects
+- **Auto-Suggest Application:** A search auto-suggestion application built to demonstrate quick data retrieval and query matching.
+
+---
+
+📬 **Let's Connect!**
